@@ -1,0 +1,95 @@
+#extra{
+    margin: 100px 0;
+    text-align: center;
+    font-size: 50px;
+}
+
+/*titolo+hobby*/
+.h1 {
+    text-align: center;
+}
+
+.img {
+    width: 100px;
+    margin: 50px 100px 0 200px;
+}
+
+ul {
+    display: inline-block;
+    list-style-type: circle;
+}
+
+#hobby {
+    margin-bottom: 100px;
+}
+
+/*centro pagina*/
+
+.all-contact {
+    margin: 0 0 90px 40px;
+}
+
+.email {
+    margin-bottom: 33px;
+}
+
+.strong-email {
+    padding-right: 42px;
+}
+
+.strong-tel {
+    padding-right: 25px;
+}
+
+.facebook {
+    display: flex;
+}
+
+.facebook-a,
+.instagram-b {
+    resize: block;
+    width: 20px;
+    margin: 14px 0 0 20px;
+}
+
+.facebook-a {
+    margin-left: 28px;
+}
+
+.instagram {
+    display: flex;
+}
+
+/*tabella*/
+caption{
+    text-align: center;
+    padding: 20px;
+}
+
+thead{
+    background-color: rgb(214, 255, 255);
+}
+
+table{
+    width: 70%;
+}
+
+table td,
+table th {
+    border: 1px solid #c9c9c9;
+    padding: 12px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 900;
+}
+.no-bold{
+    font-weight: 100;
+}
+
+tfoot td,
+tfoot th{
+    background-color: rgb(241, 212, 212);
+}
+
+
+
